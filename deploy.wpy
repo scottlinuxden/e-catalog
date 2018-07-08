@@ -1,0 +1,19 @@
+def action(context):
+	deploy = context.getDeploymentObject()
+	py=ResourceCollection(context)
+	py.add("*.py")
+	py.remove("*.pyc")
+	py.remove("*.dat")
+	py.remove("*.grl")
+	py.remove("*.mar")
+	py.remove("*.files")
+	
+	py.remove("*.gif")
+	py.remove("*.jpg")
+	py.remove("*.template")
+	py.remove("*.tables")
+	py.remove("*.gfd")
+
+	deploy.add(py.makeexe(name="tec", start="main"))
+	deploy.save("c:/py152")
+	return "Success"
