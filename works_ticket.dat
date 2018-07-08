@@ -1,0 +1,100 @@
+From - Wed Jul 19 21:52:46 2000
+Return-Path: <rsdavis@projects.softwareresearch.org>
+Received: from pluto.softwareresearch.org (208-158-53-101.citynet.net [208.158.53.101])
+	by www.linuxden.com (8.8.7/8.8.7) with ESMTP id HAA22046
+	for <rsdavis@linuxden.com>; Wed, 12 Jul 2000 07:24:54 -0400
+Received: from projects.softwareresearch.org (IDENT:rsdavis@localhost [127.0.0.1])
+	by pluto.softwareresearch.org (8.9.3/8.9.3) with ESMTP id HAA02760
+	for <rsdavis@linuxden.com>; Wed, 12 Jul 2000 07:19:27 -0400
+Sender: rsdavis@pluto.softwareresearch.org
+Message-ID: <396C543E.C7DD574C@projects.softwareresearch.org>
+Date: Wed, 12 Jul 2000 07:19:26 -0400
+From: "R. Scott Davis" <rsdavis@projects.softwareresearch.org>
+Organization: Institute for Software Research (ISR)
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.14-5.0 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: rsdavis@linuxden.com
+Subject: [Fwd: Your PythonWorks ticket! [NS-100-000-054]]
+Content-Type: multipart/mixed;
+ boundary="------------5DBE1C96CE5BE0320AB07028"
+Status: RO
+X-Mozilla-Status: 8001
+
+This is a multi-part message in MIME format.
+--------------5DBE1C96CE5BE0320AB07028
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+--------------5DBE1C96CE5BE0320AB07028
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Return-Path: <info@pythonware.com>
+Received: from localhost (IDENT:rsdavis@localhost [127.0.0.1])
+	by pluto.softwareresearch.org (8.9.3/8.9.3) with ESMTP id GAA02678
+	for <rsdavis@localhost>; Wed, 12 Jul 2000 06:55:19 -0400
+From: info@pythonware.com
+Received: from www.linuxden.com
+	by localhost with POP3 (fetchmail-5.3.1)
+	for rsdavis@localhost (single-drop); Wed, 12 Jul 2000 06:55:19 -0400 (EDT)
+Received: from pythonware.com (root@python-010.pythonware.com [194.18.155.250] (may be forged))
+	by www.linuxden.com (8.8.7/8.8.7) with ESMTP id GAA22006
+	for <rsdavis@linuxden.com>; Wed, 12 Jul 2000 06:59:24 -0400
+Received: from SPIFF (spiff.secret.pythonware.com [192.168.0.9])
+	by pythonware.com (8.9.3/8.8.5) with ESMTP id MAA09398
+	for <rsdavis@linuxden.com>; Wed, 12 Jul 2000 12:54:13 +0200
+Date: Wed, 12 Jul 2000 12:54:13 +0200
+Message-Id: <200007121054.MAA09398@pythonware.com>
+To: rsdavis@linuxden.com
+Subject: Your PythonWorks ticket! [NS-100-000-054]
+X-Mozilla-Status2: 00000000
+
+
+Hi,
+
+Here is your PythonWorks ticket.
+
+This is a personal license key, which is valid for all 1.X
+releases, on all supported platforms.
+
+NOTE: The PDF version of the PythonWorks User's Guide didn't
+make it into the 1.0 release kit.  You can grab the missing
+file from here:
+
+ http://www.pythonware.com/temporary/56284728/using_works.pdf
+    
+The 1.0.1 upgrade will be available towards the end of this
+month (we'll send you a note by email when it's available).
+
+regards,
+the pythonworks team
+
+-- start --
+
+[summary]
+ ticket owner: Robert Davis <rsdavis@linuxden.com>
+ organization: ISR
+  application: PythonWorks 1.x base license
+serial number: NS-100-000-054
+       issued: 20000710
+   valid thru: forever
+         type: full
+
+[ticket]
+McWv9atuv61xivvzBQjfxPem/4VP/14dJF5vLOc5S6zDoChS5HSyzYywSgEncPSdVG2BlY9aK9PW
+oL+2TzfS94ghMZR7nrbIr5Y1VsNwZc7sV54mI97fOfIhaTxjWZxCaWqeYKWlzWnlaW82lDuditmP
+CqwSSONtO1rJSOGI5mYY+HRgpFjhtSyGbrdTFImYuz7X+d++k0zN46IvYk/cCo0ytFKs+JUN5CPl
+6Je2SybrPPZIgDrBOXDlX2HOw6UItwaFRKpsicfe2X2mMOlNj8fbIPtsTuQ/L/bvizAhhpbibYf7
+Xs0TGrHfZtx1fe4vVjGoxEaniDaBFMp1NjKMG+gfSRvjn7yLHFOlUOJqUJLK2mUXdfqPtN3tQLuq
+T5fueZ6sYety6GU2j5RVKIPr3RXDGJbp6nuhyOuVNKAmEWguueAy9uYOvzQP5vs099XLH3NKbMt+
++F6Jom4G/pA8T4A2SpT3CaSIDTbUcuhiAcbsq/B6MH2oIF6m5fh1xjyxMzjgMEIlMHHemxE5oIZm
+R1pBfEgk3tcrMMiS7P3GFsZIOgm3MHcbWkWsyjnRGcXunKHN/y8N0W7Hi6g34ltv9kZsE2Bt/aZC
+
+-- end -- 
+
+
+--------------5DBE1C96CE5BE0320AB07028--

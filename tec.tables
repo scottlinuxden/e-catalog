@@ -1,0 +1,34 @@
+#DROP SEQUENCE customer_id_seq
+#CREATE SEQUENCE customer_id_seq START 101
+#DROP SEQUENCE orders_id_seq
+#CREATE SEQUENCE orders_id_seq START 101
+#DROP SEQUENCE products_id_seq
+#CREATE SEQUENCE products_id_seq START 101
+#DROP FUNCTION products_id_max()
+#CREATE FUNCTION products_id_max() RETURNS TEXT AS 'SELECT max(id) FROM products' LANGUAGE 'sql'
+#BEGIN
+#DELETE FROM products
+#COPY products FROM '${PWD}/demo_products.dat' USING DELIMITERS ','
+#SELECT setval('products_id_seq', int4(products_id_max()))
+#END
+#BEGIN
+#DELETE FROM sales_tax_by_state
+#COPY sales_tax_by_state FROM '${PWD}/demo_sales_tax_by_state.dat' USING DELIMITERS ','
+#END
+#BEGIN
+#DELETE FROM payment_methods
+#COPY payment_methods FROM '${PWD}/demo_payment_methods.dat' USING DELIMITERS ','
+#END
+3BEGIN
+#DELETE FROM shipping_methods
+#COPY shipping_methods FROM '${PWD}/demo_shipping_methods.dat' USING DELIMITERS ','
+#END
+#BEGIN
+#DELETE FROM order_status_values
+#COPY order_status_values FROM '${PWD}/demo_order_status_values.dat' USING DELIMITERS ','
+#END
+#BEGIN
+#DELETE FROM product_categories
+#COPY product_categories FROM '${PWD}/demo_product_categories.dat' USING DELIMITERS ','
+#END
+INSERT INTO store_info (id) VALUES ('1')
